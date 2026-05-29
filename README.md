@@ -43,8 +43,7 @@
 |--------|-------------|------|
 | [🌿 EcoTrace](https://github.com/shr3ya19/Ecotrace) | Pollution control web platform for companies with dashboards & maps | HTML, CSS, JS, Flask |
 | [🛡️ SafeJob-AI](https://github.com/shr3ya19/SafeJob-AI) | AI-based job fraud detection platform for students | Python, AI/ML |
-| 💰 Employee Payroll System | Web-based payroll management system | HTML, CSS, JS, SQL |
-
+| [💰 Employee Payroll System](https://github.com/shr3ya19/Employee-Payroll-System) | Web-based payroll management system with AI assistant for Employee & HR portal | HTML, CSS, JS, Python, Flask, SQL |
 ---
 
 ### 📊 GitHub Stats
